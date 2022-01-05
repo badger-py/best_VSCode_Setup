@@ -8,6 +8,6 @@ TODO Highlight
 
 vscode-icons
 
-Jinja
-
 Tabnine
+
+Jinja // if you use Flask
