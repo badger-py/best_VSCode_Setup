@@ -16,7 +16,7 @@ If you code in Python: autoDocstring: VSCode Python Docstring Generator
 
 Add this to your config:
 
-```json
+```jsonc
 {
     "workbench.colorTheme": "Atom One Dark", // theme
     "workbench.iconTheme": "vscode-icons", .// icons
