@@ -25,7 +25,6 @@ Add this to your config:
         "**/__pycache__": true, // if you code in python
         "**/.pytest_cache": true // if you code in python
     },
-    "materialTheme.accent": "Cyan", // theme accent
     "python.linting.flake8Enabled": true, // enable flake8 (if you code in python)
     "workbench.editor.labelFormat": "medium" // will show paths to a file in tabs
 }
